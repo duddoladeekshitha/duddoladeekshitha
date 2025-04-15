@@ -12,7 +12,7 @@
 - **Soft Skills**: Communication, Teamwork, Problem Solving, Leadership
 
 # Noteworthy Projects
-**Checkout my projects to see what I've been working on**: 
+**Checkout my projects to see what I've been working on **: 
 **Project	Description	Skills Used**
 - Airline Passenger Satisfaction	Predicted satisfaction levels using Random Forest and LightGBM with EDA and feature engineering	EDA, ML, Classification
 - Customer Churn Prediction	Built a predictive model to identify churn risk with 87% F1-score	Logistic Regression, XGBoost, Feature Selection
