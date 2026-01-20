@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Deekshitha Duddola!
 
-- 🚀 I’m an aspiring Data Scientist passionate about storytelling through data, building intelligent systems, and constantly learning something new.
-- 🎓 MS in Data Science from Pace University | GPA: 4.00
-- 🧠 Projects include predictive modeling, time series forecasting, customer churn, and solar activity prediction.
+-  I’m an aspiring Data Scientist passionate about storytelling through data, building intelligent systems, and constantly learning something new.
+-  MS in Data Science from Pace University | GPA: 3.80
+-  Projects include predictive modeling, time series forecasting, customer churn, and solar activity prediction.
 
 ## Skills Snapshot
 - **Languages**: Python, SQL
